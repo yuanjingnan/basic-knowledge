@@ -1,0 +1,2 @@
+phylogenetic tree vs a species tree vs gene tree
+If you compute a phylogenetic tree, from genome-wide DNA, then you are computing a species tree (although some sister lineages might not perfectly fit the definition of species). If the phylogenetic tree is computed from data coming from a single gene, then we are talking of gene tree.
